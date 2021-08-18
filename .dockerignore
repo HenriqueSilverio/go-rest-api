@@ -1,0 +1,7 @@
+LICENSE
+*.md
+.git
+.gitignore
+.dockerignore
+.editorconfig
+docker-compose.yml
